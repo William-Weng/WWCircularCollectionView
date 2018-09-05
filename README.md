@@ -1,7 +1,7 @@
 # WWCircularCollectionView
 一個可以無限滾動的滾輪
 
-[![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![Platform](https://img.shields.io/cocoapods/p/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![License](https://img.shields.io/cocoapods/l/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel)
+[![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWCircularCollectionView) [![Platform](https://img.shields.io/cocoapods/p/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWCircularCollectionView) [![License](https://img.shields.io/cocoapods/l/WWCircularCollectionView.svg?style=flat)](http://cocoapods.org/pods/WWCircularCollectionView)
 
 ![ 一個自訂的CircularCollectionView (上傳至Cocoapods) ](https://raw.githubusercontent.com/William-Weng/WWCircularCollectionView/master/WWCircularCollectionView.gif)
 

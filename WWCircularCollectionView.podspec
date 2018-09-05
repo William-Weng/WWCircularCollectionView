@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         				= "WWCircularCollectionView"
-  s.version      				= "0.0.1"
+  s.version      				= "0.0.2"
   s.summary      				= "WWCircularCollectionView is a infinite wheel. (一個可以無限滾動的滾輪)"
   s.homepage     				= "https://github.com/William-Weng/WWCircularCollectionView"
   s.license      				= { :type => "MIT", :file => "LICENSE" }
